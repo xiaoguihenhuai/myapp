@@ -8,6 +8,7 @@ function App() {
     <div>
       <Title title='我是title'/>
       <Title title='我是who'/>
+      <Title title='我是who000'/>
       <Test />
       <LoginScreen />
     </div>
