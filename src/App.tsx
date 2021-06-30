@@ -10,6 +10,7 @@ function App() {
       <Title title='我是who'/>
       <Title title='我是xxxx'/>
       <Test />
+      <Test />
       <LoginScreen />
     </div>
   );
