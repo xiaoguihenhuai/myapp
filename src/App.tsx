@@ -6,8 +6,8 @@ import {Title} from './title'
 function App() {
   return (
     <div>
-      {/* <Title title='我是title'/>
-      <Test /> */}
+      <Title title='我是title'/>
+      <Test />
       <LoginScreen />
     </div>
   );
